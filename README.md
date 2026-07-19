@@ -76,13 +76,6 @@
 
 ---
 
-##  Как связаться
-
-- **Telegram:** 
-- **Email:** 
-- **LinkedIn:** [linkedin.com/in/simagaev](https://linkedin.com/in/simagaev)
-
----
 
 ##  Забавный факт
 

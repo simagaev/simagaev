@@ -10,7 +10,7 @@
 
 | Роль | Чем занимаюсь |
 |------|----------------|
-| **Backend Developer** | Пишу на Python (FastAPI, Django, DRF), проектирую БД (PostgreSQL, Redis), строю ETL-конвейеры, настраиваю CI/CD (Docker, GitHub Actions). |
+| **Backend Developer** | Пишу на Python (FastAPI, Django, DRF, Postman, Pytest), проектирую БД (PostgreSQL, Redis), строю ETL-конвейеры, настраиваю CI/CD (Docker, GitHub Actions). |
 
 **Моя суперсила:** перевожу хаос бюрократических процессов в структурированные IT-решения.
 

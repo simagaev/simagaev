@@ -1,4 +1,31 @@
-#  Привет! Я Денис Симагаев
+Привет World,
+
+# Python
+my_name = "Denis"
+is_programmer = bool(my_name)
+
+print(is_programmer)
+# А если серьезно, то:
+print(f"My name is {my_name}")
+
+# C++ / Java / C#
+bool isDenis = true; 
+// Или
+std::string name = "Denis";
+bool myNameIsDenis = (name == "Denis"); // true
+
+# JavaScript
+let name = "Denis";
+let isProgrammer = (name === "Denis") ? true : false;
+console.log(isProgrammer); // true
+
+# Функция
+def is_my_name_denis(name: str) -> bool:
+    return name.lower() == "denis"
+
+result = is_my_name_denis("Denis")
+print(result)  # True
+print(f"My name is Denis: {result}") 
 
 ### → Backend-разработчик
 
